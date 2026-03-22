@@ -157,7 +157,7 @@ pip install -r requirements.txt
 
 ## Training
 
-The training notebook `violence_detection_v2.ipynb` is included. To retrain:
+The training notebook `Violence_Final.ipynb` is included. To retrain:
 
 1. Get Kaggle API credentials from kaggle.com → Settings → API
 2. Open the notebook in Google Colab
